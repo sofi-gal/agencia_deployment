@@ -1,5 +1,4 @@
 # Página de Agencia de Viajes (curso Udemy)
-
 Esta página fue desarrollada con patrón de diseño MVC, utilizando las siguientes tecnologías:
 
 - Javascript
